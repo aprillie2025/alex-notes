@@ -1,4 +1,4 @@
-# Alex / Notes
+# Jingbo / Notes
 
 A small portfolio site documenting interface experiments and learning in public.
 
@@ -9,3 +9,4 @@ A small portfolio site documenting interface experiments and learning in public.
 - Contact: accessible message form
 
 Open `index.html` directly or deploy the folder to any static host.
+
